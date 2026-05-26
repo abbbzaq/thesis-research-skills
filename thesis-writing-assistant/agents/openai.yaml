@@ -1,0 +1,6 @@
+interface:
+  display_name: "Thesis Writing Assistant"
+  short_description: "Strengthen academic writing and claim-evidence alignment"
+  icon_small: "./assets/research-small.svg"
+  icon_large: "./assets/research.png"
+  default_prompt: "Revise this thesis or paper section for stronger logic, clearer academic writing, and better claim-evidence alignment."

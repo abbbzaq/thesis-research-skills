@@ -1,0 +1,6 @@
+interface:
+  display_name: "Research Plan Refiner"
+  short_description: "Turn a research idea into a concrete study plan"
+  icon_small: "./assets/research-small.svg"
+  icon_large: "./assets/research.png"
+  default_prompt: "Help me turn this rough research idea into a testable plan with research questions, baselines, metrics, risks, and next steps."
